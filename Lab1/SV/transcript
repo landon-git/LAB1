@@ -1,0 +1,65 @@
+# do silly.do
+# ** Warning: (vdel-134) Unable to remove locked optimized design "_opt".  Locker is lando@DESKTOP-JDC6IR8.
+# ** Warning: (vdel-134) Unable to remove locked optimized design "_opt1".  Locker is lando@DESKTOP-JDC6IR8.
+# ** Warning: (vdel-134) Unable to remove locked optimized design "_opt10".  Locker is lando@DESKTOP-JDC6IR8.
+# ** Warning: (vdel-134) Unable to remove locked optimized design "_opt11".  Locker is lando@DESKTOP-JDC6IR8.
+# ** Warning: (vdel-134) Unable to remove locked optimized design "_opt12".  Locker is lando@DESKTOP-JDC6IR8.
+# ** Warning: (vdel-134) Unable to remove locked optimized design "_opt2".  Locker is lando@DESKTOP-JDC6IR8.
+# ** Warning: (vdel-134) Unable to remove locked optimized design "_opt3".  Locker is lando@DESKTOP-JDC6IR8.
+# ** Warning: (vdel-134) Unable to remove locked optimized design "_opt4".  Locker is lando@DESKTOP-JDC6IR8.
+# ** Warning: (vdel-134) Unable to remove locked optimized design "_opt5".  Locker is lando@DESKTOP-JDC6IR8.
+# ** Warning: (vdel-134) Unable to remove locked optimized design "_opt6".  Locker is lando@DESKTOP-JDC6IR8.
+# ** Warning: (vdel-134) Unable to remove locked optimized design "_opt7".  Locker is lando@DESKTOP-JDC6IR8.
+# ** Warning: (vdel-134) Unable to remove locked optimized design "_opt8".  Locker is lando@DESKTOP-JDC6IR8.
+# ** Warning: (vdel-134) Unable to remove locked optimized design "_opt9".  Locker is lando@DESKTOP-JDC6IR8.
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim SE-64 vlog 10.7f Compiler 2020.03 Mar 24 2020
+# Start time: 15:49:20 on Feb 14,2024
+# vlog rca4.sv silly_tb.sv silly.sv 
+# -- Compiling module rca4
+# -- Compiling module tb
+# -- Compiling module silly
+# 
+# Top level modules:
+# 	tb
+# End time: 15:49:20 on Feb 14,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" work.tb 
+# Start time: 15:49:20 on Feb 14,2024
+# ** Note: (vsim-3812) Design is being optimized...
+# //  ModelSim SE-64 10.7f Mar 24 2020
+# //
+# //  Copyright 1991-2020 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  ModelSim SE-64 and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# Loading sv_std.std
+# Loading work.tb(fast)
+# Loading work.rca4(fast)
+# Loading work.silly(fast)
+# .list
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: lando  Hostname: DESKTOP-JDC6IR8  ProcessID: 16252
+#           Attempting to use alternate WLF file "./wlft6m12b7".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlft6m12b7
+# configure wave not supported in batch mode
+# configure wave not supported in batch mode
+# configure wave not supported in batch mode
+# configure wave not supported in batch mode
+# configure wave not supported in batch mode
+# configure wave not supported in batch mode
+# configure wave not supported in batch mode
+# configure wave not supported in batch mode
+#        150 tests completed with          0 errors
+# ** Note: $finish    : silly_tb.sv(60)
+#    Time: 1505 ns  Iteration: 2  Instance: /tb
+# End time: 15:49:21 on Feb 14,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 2

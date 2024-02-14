@@ -1,0 +1,221 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/lando/OneDrive/Documents/GitHub/LAB1/Lab1/SV
+T_opt
+!s110 1707347484
+Vlo_lMk?2kIWo@cXiZhIMN0
+Z1 04 2 4 work tb fast 0
+=1-a4f93343bbd8-65c40e1c-255-4d74
+Z2 o-quiet -auto_acc_if_foreign -work work +acc
+Z3 tCvgOpt 0
+n@_opt
+Z4 OL;O;10.7f;67
+R0
+T_opt1
+!s110 1707347795
+V_g1MZkS@Dc=RaEeZ[V=O<3
+R1
+=1-a4f93343bbd8-65c40f52-3bb-3760
+R2
+R3
+n@_opt1
+R4
+R0
+T_opt10
+!s110 1707946790
+VPYE^CcNJ?Qn3e8Vg`FVOO0
+R1
+=1-a4f93343bbd8-65cd3326-231-8cc
+R2
+R3
+n@_opt10
+R4
+R0
+T_opt11
+!s110 1707946865
+VhW3hMFHb`e>V?IKmK1@JN2
+R1
+=1-a4f93343bbd8-65cd3370-371-2434
+R2
+R3
+n@_opt11
+R4
+R0
+T_opt12
+!s110 1707947006
+V_I`GQH8hk7JI_fozRIH;X0
+R1
+=1-a4f93343bbd8-65cd33fe-1f8-3f7c
+R2
+R3
+n@_opt12
+R4
+R0
+T_opt13
+!s110 1707947361
+VfjdiMg0B2D9jhfJ<jk9EK2
+R1
+=1-a4f93343bbd8-65cd3561-88-3878
+R2
+R3
+n@_opt13
+R4
+T_opt2
+!s110 1707347889
+VCEU:=O^Jmh@jJDUY[z^EP0
+R1
+=1-a4f93343bbd8-65c40fb1-7a-4b60
+R2
+R3
+n@_opt2
+R4
+R0
+T_opt3
+!s110 1707942755
+VXimf8lgH5fLAdRPI`<W=G2
+R1
+=1-a4f93343bbd8-65cd2362-368-4344
+R2
+R3
+n@_opt3
+R4
+R0
+T_opt4
+!s110 1707942943
+V:f5Y62ec84O]Q[<4J<UlK3
+R1
+=1-a4f93343bbd8-65cd241f-a5-33e8
+R2
+R3
+n@_opt4
+R4
+R0
+T_opt5
+!s110 1707943330
+V1?HZiiEc0[P;[MAOXB;][1
+R1
+=1-a4f93343bbd8-65cd25a2-25f-3ca0
+R2
+R3
+n@_opt5
+R4
+R0
+T_opt6
+!s110 1707943460
+VSo74`EIGGoP`N[=U5Q7Uc1
+R1
+=1-a4f93343bbd8-65cd2624-251-4748
+R2
+R3
+n@_opt6
+R4
+R0
+T_opt7
+!s110 1707943679
+VjRMJCANZ3g0NJc0RO;2d;2
+R1
+=1-a4f93343bbd8-65cd26ff-30b-4a84
+R2
+R3
+n@_opt7
+R4
+R0
+T_opt8
+!s110 1707946579
+V[M3U@mmcnV=zfM;I8KVf60
+R1
+=1-a4f93343bbd8-65cd3253-11f-3438
+R2
+R3
+n@_opt8
+R4
+R0
+T_opt9
+!s110 1707946710
+VclKVd;a^D2Rl`igLBz@RT1
+R1
+=1-a4f93343bbd8-65cd32d6-2f-5088
+R2
+R3
+n@_opt9
+R4
+R0
+vrca4
+Z5 DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+Z6 !s110 1707947360
+!i10b 1
+!s100 DeOAUiC6Z:OanKS]ElaYj3
+IHPz]OXk4>0M8^5MBFGVV50
+Z7 VDg1SIo80bB@j0V0VzS_@n1
+!s105 rca4_sv_unit
+S1
+R0
+w1707946921
+8rca4.sv
+Frca4.sv
+L0 1
+Z8 OL;L;10.7f;67
+r1
+!s85 0
+31
+Z9 !s108 1707947360.000000
+Z10 !s107 silly.sv|silly_tb.sv|rca4.sv|
+Z11 !s90 rca4.sv|silly_tb.sv|silly.sv|
+!i113 0
+Z12 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R3
+vsilly
+R5
+R6
+!i10b 1
+!s100 Ie9iHmjl=^nN:B>;U8bH[1
+I@T49_9oT6kg8T=JVjl]>>2
+R7
+!s105 silly_sv_unit
+S1
+R0
+w1707942555
+8silly.sv
+Fsilly.sv
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R3
+vtb
+R5
+R6
+!i10b 1
+!s100 G_gMdQAIghziOm9aH54<@2
+I3ioCzN<on8aZc]Le8JGn50
+R7
+!s105 silly_tb_sv_unit
+S1
+R0
+w1707947312
+8silly_tb.sv
+Fsilly_tb.sv
+L0 2
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R3
